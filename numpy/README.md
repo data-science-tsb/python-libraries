@@ -5,6 +5,6 @@ import numpy as np
 ```
 
 # TOC
-- [Array Creation](NumpyArrayCreation.md "Different ways of creating Numpy Arrays")
-- [Operations](NumpyOperations.md "Basic Operations for Numpy Arrays")
+- [Array Creation](NumpyArrayCreation.ipynb "Different ways of creating Numpy Arrays")
+- [Operations](NumpyOperations.ipynb "Basic Operations for Numpy Arrays")
 
