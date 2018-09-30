@@ -1,9 +1,9 @@
 # Python Data Science Libraries
 Common Python libraries every data scientist should have in their toolbox
 
-- Numpy: Data
-- Pandas: Dataframe 
-- Matplotlib: Graph
+- Numpy: Scientific compute
+- Pandas: Data structure and data analysis 
+- Matplotlib: Data visualization
 - Seaborn: Matplotlib++, awesome-looking plots, great integration with Pandas
 
 #### Resources
